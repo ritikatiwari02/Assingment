@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Isabel", "last": "Lee" },
+      "location": {
+        "street": { "number": 1721, "name": "Bay View Road" },
+        "city": "Upper Hutt",
+        "state": "Wellington",
+        "country": "New Zealand",
+        "postcode": 23507,
+        "coordinates": { "latitude": "51.6486", "longitude": "72.2170" },
+        "timezone": { "offset": "+4:30", "description": "Kabul" }
+      },
+      "email": "isabel.lee@example.com",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "af6cc586a818bfd9",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
